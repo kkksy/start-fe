@@ -20,7 +20,6 @@ var btn_event = {
 
         var div = box;
 
-
         
     },
 
