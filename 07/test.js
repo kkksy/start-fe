@@ -10,6 +10,3 @@ const obj = {
 };
 
 console.log(obj);
-//.prettierrc 프리티어 설정
-//eslint.js
-//npx eslint --init
