@@ -1,0 +1,6 @@
+
+# GET https://www.daum.net
+
+# XMLHttpRequest
+# fetch()
+# 보안상 해당 웹의 호스트에서 허락해주지 않으면 리소스 할 수 없다.
